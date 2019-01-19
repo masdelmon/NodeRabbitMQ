@@ -2,7 +2,7 @@
   "name": "node-sandbox",
   "version": "1.0.0",
   "description": "Simple Node Sandbox",
-  "main": "src/connectio/index.js",
+  "main": "src/connection/index.js",
   "scripts": {
     "start": "nodemon src/connection/index.js localhost 8080"
   },
