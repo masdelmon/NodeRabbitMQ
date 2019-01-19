@@ -1,2 +1,0 @@
-# NodeRabbitMQ
-Created with CodeSandbox
